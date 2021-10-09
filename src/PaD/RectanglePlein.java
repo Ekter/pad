@@ -1,7 +1,6 @@
 package PaD;
 
 import java.awt.Color;
-import java.awt.geom.Rectangle2D;
 
 /** 
  * La classe {@code RectanglePlein} représente un rectangle dessinable

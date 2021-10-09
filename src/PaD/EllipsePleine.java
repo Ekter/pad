@@ -1,7 +1,6 @@
 package PaD;
 
 import java.awt.Color;
-import java.awt.geom.Ellipse2D;
 
 /** 
  * La classe {@code EllipsePleine} représente une ellipse pleine
