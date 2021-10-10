@@ -144,4 +144,8 @@ public class Ellipse extends Dessinable {
 	return "Ellipse";
     }
 
+    @Override
+    public int compareTo(Dessinable o) {
+        return 0;
+    }
 }

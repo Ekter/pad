@@ -1,8 +1,6 @@
 package PaD;
 
-import java.awt.Shape;
 import java.awt.Color;
-import java.util.function.Consumer;
 
 /**
  * La classe abstraite Dessinable est la classe de base de tous objets

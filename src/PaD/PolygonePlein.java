@@ -1,6 +1,5 @@
 package PaD;
 import java.awt.Color;
-import java.awt.geom.GeneralPath;
 
 /** 
  * La classe {@code PolygonePlein} représente un polygône plein dessinable

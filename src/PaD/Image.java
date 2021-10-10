@@ -4,7 +4,6 @@ import java.awt.MediaTracker;
 import javax.swing.ImageIcon;
 import java.net.URL;
 import java.net.MalformedURLException;
-import java.awt.geom.Rectangle2D;
 
 /**
  * La classe {@code Image} représente une image dessinable sur la planche à
